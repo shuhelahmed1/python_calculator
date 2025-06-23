@@ -1,0 +1,1 @@
+This Python calculator takes two inputs from the user and performs general mathematical operations.
